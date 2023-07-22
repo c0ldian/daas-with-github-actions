@@ -1,10 +1,10 @@
 <root org="doublechain"
-    chinese_name="Simple PIM v1.01"
-    english_name="Product Information Management"
+    chinese_name="运检排班管理 v1.01"
+    english_name="Yun Jian Pai Class Management"
 >
     <platform
               
-        name="PIM"
+        name="运检排班管理"
         founded="now()"
         contact_number="992887654321"
     />
