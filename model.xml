@@ -6,7 +6,7 @@
               
         name="运检排班管理"
         founded="now()"
-        contact_number="992887654321"
+        contact_number="18888888888"
     />
     <brand name="Candys|Sees"  platform="platform()"/>
     <product name="popcorn|chocklate" image="snack.jpg" brand="brand()"  platform="platform()"/>
